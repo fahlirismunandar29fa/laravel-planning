@@ -1,0 +1,6 @@
+Rencana Belajar Laravel
+1. Route
+2. Controller
+3. View
+4. Model
+5. Validation
