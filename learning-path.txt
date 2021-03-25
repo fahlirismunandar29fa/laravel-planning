@@ -4,3 +4,5 @@ Rencana Belajar Laravel
 3. View
 4. Model
 5. Validation
+6. Manual Authentication
+7. Pagination
