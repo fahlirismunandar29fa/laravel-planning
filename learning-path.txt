@@ -5,4 +5,4 @@ Rencana Belajar Laravel
 4. Model
 5. Validation
 6. Manual Authentication
-7. Pagination
+7. Middleware
